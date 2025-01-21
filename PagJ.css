@@ -13,9 +13,11 @@
     .row1 { /*comandos para organizar as fotos na linha*/
       display: flex;
       justify-content: center;
-      /*gap: 5px;*/
+      gap: 5px;
     }
   
+
+
     .row2 {
       display: flex;
       justify-content: center;
