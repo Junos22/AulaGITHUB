@@ -1,0 +1,9 @@
+* {
+  margin: auto;
+  box-sizing: border-box;
+
+  .titulo {
+    display: flex;
+    justify-content: center;
+  }
+}

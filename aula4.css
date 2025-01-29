@@ -1,0 +1,32 @@
+* {
+  margin: auto;
+  box-sizing: border-box;
+
+  body {
+    background-color:dimgrey ;
+  }
+
+  .fundo {
+    width: 100%;
+    height: 220px;
+    filter: blur(10px);
+  }
+
+  .texto {
+    position: absolute;
+    left: 300px;
+  }
+
+  .filme {
+    width: 100px;
+  }
+
+  .grade {
+    padding-top: 150px;
+    display: grid;
+    grid-template-columns: repeat(3, 150px);
+    margin: 20px;
+    /*grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 170px 170px;*/
+  }
+}

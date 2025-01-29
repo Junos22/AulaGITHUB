@@ -15,7 +15,7 @@
       justify-content: center;
       /*gap: 5px;*/
     }
-  
+  display: inline-table;
     .row2 {
       display: flex;
       justify-content: center;
